@@ -693,4 +693,47 @@ footer span a:hover{
 .fab{
     height: 400px;
     width: 310px;
+   
+
+}
+.btn{
+    margin-top: 10px;
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: none;
+    
+    border: 2px solid crimson;
+    transition: all 0.3s ease; 
+    outline: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    flex-wrap: nowrap;
+    
+
+    /* color: #fff;
+    display: block;
+    width: 100px!important;
+    height: 45px;
+    outline: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    flex-wrap: nowrap;
+    background: crimson;
+    border: 2px solid crimson;
+    transition: all 0.3s ease; */
+
+
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+   
 }
